@@ -1,0 +1,1946 @@
+{
+  "0 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-303e68818c5aa2c0-r",
+      "widthEm": 6.986,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 698.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-303e68818c5aa2c0-b",
+      "widthEm": 6.95,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 695.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "1 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-70dabc0f2d3b46b7-r",
+      "widthEm": 6.947,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 694.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-70dabc0f2d3b46b7-b",
+      "widthEm": 6.922,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 692.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "2 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-f15265de7547ef25-r",
+      "widthEm": 6.944,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 694.400000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-f15265de7547ef25-b",
+      "widthEm": 6.912,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 691.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "20 صفحة": {
+    "regular": {
+      "id": "bt-0f7d207c85f287c3-r",
+      "widthEm": 3.862,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 386.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-0f7d207c85f287c3-b",
+      "widthEm": 3.88,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 388.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "3 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-3ad21daa4afe7866-r",
+      "widthEm": 6.956,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 695.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-3ad21daa4afe7866-b",
+      "widthEm": 6.92,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 692.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "4 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-d65e63378c4e230d-r",
+      "widthEm": 7.008,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 700.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-d65e63378c4e230d-b",
+      "widthEm": 6.975,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 697.500000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "5 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-6b633b291af3f38d-r",
+      "widthEm": 6.936,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 693.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-6b633b291af3f38d-b",
+      "widthEm": 6.908,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 690.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "6 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-f75a7eb1ff54f3e3-r",
+      "widthEm": 6.976,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 697.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-f75a7eb1ff54f3e3-b",
+      "widthEm": 6.942,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 694.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "62 صفحة": {
+    "regular": {
+      "id": "bt-69435734cfe50bab-r",
+      "widthEm": 3.82,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 382.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-69435734cfe50bab-b",
+      "widthEm": 3.842,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 384.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "7 من 7 مجموعات": {
+    "regular": {
+      "id": "bt-55fd009f2f309170-r",
+      "widthEm": 6.963,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 696.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-55fd009f2f309170-b",
+      "widthEm": 6.933,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 693.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "PT Sans + دليل الخطوط": {
+    "regular": {
+      "id": "bt-1ba04685aecc36ca-r",
+      "widthEm": 9.596,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 959.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-1ba04685aecc36ca-b",
+      "widthEm": 9.691,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 969.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "أدلة الهوية": {
+    "regular": {
+      "id": "bt-a3c2fc9b0725d904-r",
+      "widthEm": 4.056,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 405.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-a3c2fc9b0725d904-b",
+      "widthEm": 4.111,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 411.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "أضف بيانات العقار والصور الفعلية.": {
+    "regular": {
+      "id": "bt-7dbece3e2f95db21-r",
+      "widthEm": 13.422,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1342.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-7dbece3e2f95db21-b",
+      "widthEm": 13.649,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1364.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "إلى الأعلى": {
+    "regular": {
+      "id": "bt-9b35aad771b15d27-r",
+      "widthEm": 3.962,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 396.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-9b35aad771b15d27-b",
+      "widthEm": 3.988,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 398.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "استخدم الخطوط الأصلية عند التحرير.": {
+    "regular": {
+      "id": "bt-643695f8a87e7f23-r",
+      "widthEm": 13.946,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1394.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-643695f8a87e7f23-b",
+      "widthEm": 14.122,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1412.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الأدلة": {
+    "regular": {
+      "id": "bt-9c8971fed1381f66-r",
+      "widthEm": 2.085,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 208.500000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-9c8971fed1381f66-b",
+      "widthEm": 2.089,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 208.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الأصول والتطبيقات وحركة الشعار": {
+    "regular": {
+      "id": "bt-ad84b23c24277095-r",
+      "widthEm": 12.888,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1288.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ad84b23c24277095-b",
+      "widthEm": 13.011,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1301.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الإصدارات": {
+    "regular": {
+      "id": "bt-aacf98d9cdb01bd5-r",
+      "widthEm": 3.896,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 389.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-aacf98d9cdb01bd5-b",
+      "widthEm": 3.988,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 398.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "التطبيقات": {
+    "regular": {
+      "id": "bt-6d30bb0c3d9bd942-r",
+      "widthEm": 3.899,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 389.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-6d30bb0c3d9bd942-b",
+      "widthEm": 3.969,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 396.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "التطبيقات الكاملة": {
+    "regular": {
+      "id": "bt-1f850da0879036d6-r",
+      "widthEm": 6.816,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 681.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-1f850da0879036d6-b",
+      "widthEm": 6.889,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 688.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "التعديلات الأخيرة ضمن الحزمة المختصرة.": {
+    "regular": {
+      "id": "bt-b1e54479f6de50c1-r",
+      "widthEm": 15.84,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1584.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-b1e54479f6de50c1-b",
+      "widthEm": 16.028,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1602.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "التواصل الاجتماعي": {
+    "regular": {
+      "id": "bt-e208ccc35f16ec4e-r",
+      "widthEm": 7.222,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 722.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-e208ccc35f16ec4e-b",
+      "widthEm": 7.28,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 728.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الحزمة المختصرة": {
+    "regular": {
+      "id": "bt-ea4a1bae1011b7dd-r",
+      "widthEm": 6.401,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 640.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ea4a1bae1011b7dd-b",
+      "widthEm": 6.46,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 646.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الخطوط": {
+    "regular": {
+      "id": "bt-034a4165cce428db-r",
+      "widthEm": 3.055,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 305.500000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-034a4165cce428db-b",
+      "widthEm": 3.087,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 308.700000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الخطوط الرسمية": {
+    "regular": {
+      "id": "bt-9cf9a7b038587260-r",
+      "widthEm": 6.425,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 642.500000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-9cf9a7b038587260-b",
+      "widthEm": 6.494,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 649.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الدليل الأساسي الأصلي": {
+    "regular": {
+      "id": "bt-b2de2f8ccf131b3e-r",
+      "widthEm": 9.172,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 917.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-b2de2f8ccf131b3e-b",
+      "widthEm": 9.303,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 930.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشريحة 01": {
+    "regular": {
+      "id": "bt-e1e2702a46c3eca4-r",
+      "widthEm": 4.307,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 430.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-e1e2702a46c3eca4-b",
+      "widthEm": 4.426,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 442.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشريحة 02": {
+    "regular": {
+      "id": "bt-5fbf0f5022dce661-r",
+      "widthEm": 4.307,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 430.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-5fbf0f5022dce661-b",
+      "widthEm": 4.426,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 442.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشريحة 03": {
+    "regular": {
+      "id": "bt-429dd028608020bc-r",
+      "widthEm": 4.307,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 430.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-429dd028608020bc-b",
+      "widthEm": 4.426,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 442.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشريحة 04": {
+    "regular": {
+      "id": "bt-1ac9c7f945d5e477-r",
+      "widthEm": 4.307,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 430.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-1ac9c7f945d5e477-b",
+      "widthEm": 4.426,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 442.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشريحة 05": {
+    "regular": {
+      "id": "bt-1ba5a3646c305e60-r",
+      "widthEm": 4.307,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 430.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-1ba5a3646c305e60-b",
+      "widthEm": 4.426,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 442.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار · PDF": {
+    "regular": {
+      "id": "bt-c5f9bf9118eb0ed0-r",
+      "widthEm": 4.889,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 488.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-c5f9bf9118eb0ed0-b",
+      "widthEm": 4.989,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 498.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار · SVG": {
+    "regular": {
+      "id": "bt-ab69535cf57fef2e-r",
+      "widthEm": 4.883,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 488.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ab69535cf57fef2e-b",
+      "widthEm": 4.999,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 499.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار الأساسي": {
+    "regular": {
+      "id": "bt-b35719c496073a23-r",
+      "widthEm": 6.196,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 619.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-b35719c496073a23-b",
+      "widthEm": 6.319,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 631.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار الأساسي · 8000 بكسل": {
+    "regular": {
+      "id": "bt-683e808124540870-r",
+      "widthEm": 11.781,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1178.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-683e808124540870-b",
+      "widthEm": 11.991,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1199.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار الأساسي · PDF": {
+    "regular": {
+      "id": "bt-25bab38a9ca0d806-r",
+      "widthEm": 8.675,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 867.500000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-25bab38a9ca0d806-b",
+      "widthEm": 8.82,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 882.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار الأساسي · متجهي": {
+    "regular": {
+      "id": "bt-bbc8c735d9a60cd9-r",
+      "widthEm": 9.716,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 971.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-bbc8c735d9a60cd9-b",
+      "widthEm": 9.854,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 985.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار الرسمي": {
+    "regular": {
+      "id": "bt-dc37d1fc95dfe0ca-r",
+      "widthEm": 5.684,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 568.400000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-dc37d1fc95dfe0ca-b",
+      "widthEm": 5.8,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 580.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الشعار والخطوط": {
+    "regular": {
+      "id": "bt-7db8a5ce9bce9054-r",
+      "widthEm": 6.258,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 625.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-7db8a5ce9bce9054-b",
+      "widthEm": 6.352,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 635.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الطباعة": {
+    "regular": {
+      "id": "bt-770a398a4d19cb44-r",
+      "widthEm": 2.784,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 278.400000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-770a398a4d19cb44-b",
+      "widthEm": 2.784,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 278.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "العقار": {
+    "regular": {
+      "id": "bt-d0966744be5b4523-r",
+      "widthEm": 2.097,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 209.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-d0966744be5b4523-b",
+      "widthEm": 2.171,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 217.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "القالب الفارغ · PDF": {
+    "regular": {
+      "id": "bt-2d02edf57abf6b87-r",
+      "widthEm": 7.356,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 735.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-2d02edf57abf6b87-b",
+      "widthEm": 7.529,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 752.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "القالب الفارغ · Word": {
+    "regular": {
+      "id": "bt-06343c4c95565516-r",
+      "widthEm": 7.903,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 790.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-06343c4c95565516-b",
+      "widthEm": 8.098,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 809.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "القالب الفارغ · معاينة": {
+    "regular": {
+      "id": "bt-c54ee8aabbdbf46f-r",
+      "widthEm": 8.152,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 815.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-c54ee8aabbdbf46f-b",
+      "widthEm": 8.321,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 832.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "القالب القابل للتعبئة · PDF": {
+    "regular": {
+      "id": "bt-8f0e3e50c6c23777-r",
+      "widthEm": 10.374,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1037.400000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-8f0e3e50c6c23777-b",
+      "widthEm": 10.46,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1046.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "القالب القابل للتعبئة · Word": {
+    "regular": {
+      "id": "bt-775ee63532ea0f0b-r",
+      "widthEm": 10.921,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1092.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-775ee63532ea0f0b-b",
+      "widthEm": 11.029,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1102.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "القالب القابل للتعبئة · معاينة": {
+    "regular": {
+      "id": "bt-1af36998bd40cdc3-r",
+      "widthEm": 11.17,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1117.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-1af36998bd40cdc3-b",
+      "widthEm": 11.252,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1125.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الكتاب التنفيذي": {
+    "regular": {
+      "id": "bt-e5d628265c8b91e5-r",
+      "widthEm": 5.991,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 599.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-e5d628265c8b91e5-b",
+      "widthEm": 6.083,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 608.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "الكل": {
+    "regular": {
+      "id": "bt-65f276da33cf05fa-r",
+      "widthEm": 1.636,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 163.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-65f276da33cf05fa-b",
+      "widthEm": 1.672,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 167.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "اللافتات العقارية": {
+    "regular": {
+      "id": "bt-a878b369199c62c0-r",
+      "widthEm": 6.322,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 632.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-a878b369199c62c0-b",
+      "widthEm": 6.445,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 644.500000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المختصرة": {
+    "regular": {
+      "id": "bt-da537a8056ede98e-r",
+      "widthEm": 3.692,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 369.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-da537a8056ede98e-b",
+      "widthEm": 3.746,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 374.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المراسلات الرسمية": {
+    "regular": {
+      "id": "bt-78bfd9b5952654fc-r",
+      "widthEm": 7.38,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 738.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-78bfd9b5952654fc-b",
+      "widthEm": 7.476,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 747.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المرجع الأصلي": {
+    "regular": {
+      "id": "bt-713deff4e98c88d8-r",
+      "widthEm": 5.647,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 564.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-713deff4e98c88d8-b",
+      "widthEm": 5.733,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 573.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المصادر": {
+    "regular": {
+      "id": "bt-ce11b84512938de6-r",
+      "widthEm": 3.048,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 304.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ce11b84512938de6-b",
+      "widthEm": 3.102,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 310.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المصادر والأصول": {
+    "regular": {
+      "id": "bt-48ab117ef0bddf03-r",
+      "widthEm": 6.775,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 677.500000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-48ab117ef0bddf03-b",
+      "widthEm": 6.833,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 683.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المصدر الموحّد للشرائح": {
+    "regular": {
+      "id": "bt-320a06497aa94681-r",
+      "widthEm": 8.99601,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 899.601000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-320a06497aa94681-b",
+      "widthEm": 9.098,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 909.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المطبوعات": {
+    "regular": {
+      "id": "bt-32f503ff8a3682b4-r",
+      "widthEm": 4.311,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 431.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-32f503ff8a3682b4-b",
+      "widthEm": 4.308,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 430.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "المعاينة": {
+    "regular": {
+      "id": "bt-0a40c58ac7c3f5c9-r",
+      "widthEm": 2.98,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 298.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-0a40c58ac7c3f5c9-b",
+      "widthEm": 3.034,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 303.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "النسخة المحدّثة دون وصف الفرع": {
+    "regular": {
+      "id": "bt-ebefcb68690418bb-r",
+      "widthEm": 12.63,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1263.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ebefcb68690418bb-b",
+      "widthEm": 12.668,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1266.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "انتقل إلى المحتوى": {
+    "regular": {
+      "id": "bt-f178a56ba4a2e311-r",
+      "widthEm": 7.043,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 704.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-f178a56ba4a2e311-b",
+      "widthEm": 7.123,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 712.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "بحث في التطبيقات": {
+    "regular": {
+      "id": "bt-496a15cf87c03c8a-r",
+      "widthEm": 7.444,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 744.400000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-496a15cf87c03c8a-b",
+      "widthEm": 7.514,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 751.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "تحميل التطبيقات": {
+    "regular": {
+      "id": "bt-986f8ae478ff1f13-r",
+      "widthEm": 6.67,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 667.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-986f8ae478ff1f13-b",
+      "widthEm": 6.764,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 676.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "تحميل الحزمة": {
+    "regular": {
+      "id": "bt-18300bac8146ec57-r",
+      "widthEm": 5.169,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 516.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-18300bac8146ec57-b",
+      "widthEm": 5.211,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 521.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "تحميل المجموعة": {
+    "regular": {
+      "id": "bt-8c4a9e069a3afa31-r",
+      "widthEm": 6.507,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 650.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-8c4a9e069a3afa31-b",
+      "widthEm": 6.485,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 648.500000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "تحميل الملف": {
+    "regular": {
+      "id": "bt-7e47ea9896df1edd-r",
+      "widthEm": 5.228,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 522.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-7e47ea9896df1edd-b",
+      "widthEm": 5.271,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 527.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "تعليمات الاستخدام": {
+    "regular": {
+      "id": "bt-50803d24bbebf066-r",
+      "widthEm": 7.407,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 740.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-50803d24bbebf066-b",
+      "widthEm": 7.491,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 749.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "تكبير المعاينة": {
+    "regular": {
+      "id": "bt-a6af3ba50c5331da-r",
+      "widthEm": 5.107,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 510.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-a6af3ba50c5331da-b",
+      "widthEm": 5.222,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 522.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "تنزيلات مباشرة": {
+    "regular": {
+      "id": "bt-31c2db25732bb32a-r",
+      "widthEm": 5.829,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 582.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-31c2db25732bb32a-b",
+      "widthEm": 5.935,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 593.500000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "حزمة مختصرة": {
+    "regular": {
+      "id": "bt-acfe85db72f8bbb3-r",
+      "widthEm": 5.309,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 530.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-acfe85db72f8bbb3-b",
+      "widthEm": 5.306,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 530.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "خمس شرائح + المصدر": {
+    "regular": {
+      "id": "bt-2efe6184c8297777-r",
+      "widthEm": 8.906,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 890.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-2efe6184c8297777-b",
+      "widthEm": 8.96501,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 896.501000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "دليل الهوية الكامل": {
+    "regular": {
+      "id": "bt-9793af3cfd819424-r",
+      "widthEm": 7.057,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 705.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-9793af3cfd819424-b",
+      "widthEm": 7.184,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 718.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "راجع المقاس والنزف واللون مع المطبعة.": {
+    "regular": {
+      "id": "bt-bd1fb428908cbd66-r",
+      "widthEm": 15.643,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1564.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-bd1fb428908cbd66-b",
+      "widthEm": 15.8,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1580.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "شفاف · 2000 بكسل": {
+    "regular": {
+      "id": "bt-bd659fc609c389d0-r",
+      "widthEm": 8.168,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 816.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-bd659fc609c389d0-b",
+      "widthEm": 8.273,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 827.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "شفاف · 4000 بكسل": {
+    "regular": {
+      "id": "bt-fd2c1d14252b896e-r",
+      "widthEm": 8.168,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 816.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-fd2c1d14252b896e-b",
+      "widthEm": 8.273,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 827.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "شفاف · 8000 بكسل": {
+    "regular": {
+      "id": "bt-06d999c62ad32e30-r",
+      "widthEm": 8.168,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 816.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-06d999c62ad32e30-b",
+      "widthEm": 8.273,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 827.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "صورة واحدة في الأسفل": {
+    "regular": {
+      "id": "bt-b038cdf9925ba65f-r",
+      "widthEm": 9.248,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 924.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-b038cdf9925ba65f-b",
+      "widthEm": 9.344,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 934.400000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "عرض الدليل": {
+    "regular": {
+      "id": "bt-ae888d573021e29d-r",
+      "widthEm": 4.628,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 462.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ae888d573021e29d-b",
+      "widthEm": 4.692,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 469.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "عرض الكل": {
+    "regular": {
+      "id": "bt-cc52200ebc71aec6-r",
+      "widthEm": 4.033,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 403.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-cc52200ebc71aec6-b",
+      "widthEm": 4.069,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 406.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "قابل للتعديل": {
+    "regular": {
+      "id": "bt-1d11ef13864a9d39-r",
+      "widthEm": 4.862,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 486.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-1d11ef13864a9d39-b",
+      "widthEm": 4.916,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 491.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "قالب Word قابل للتعديل": {
+    "regular": {
+      "id": "bt-11422bf1b0967d4d-r",
+      "widthEm": 9.596,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 959.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-11422bf1b0967d4d-b",
+      "widthEm": 9.701,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 970.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "قواعد الهوية وتطبيقاتها": {
+    "regular": {
+      "id": "bt-d3c6330ec081619f-r",
+      "widthEm": 9.063,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 906.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-d3c6330ec081619f-b",
+      "widthEm": 9.217,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 921.700000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "كاروسيل العقار": {
+    "regular": {
+      "id": "bt-536805e2769d744a-r",
+      "widthEm": 5.688,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 568.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-536805e2769d744a-b",
+      "widthEm": 5.829,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 582.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "لا توجد نتائج": {
+    "regular": {
+      "id": "bt-2d8a461130e06371-r",
+      "widthEm": 4.828,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 482.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-2d8a461130e06371-b",
+      "widthEm": 4.849,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 484.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "لافتة للإيجار": {
+    "regular": {
+      "id": "bt-2ebf6cd40edfeec2-r",
+      "widthEm": 4.606,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 460.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-2ebf6cd40edfeec2-b",
+      "widthEm": 4.66,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 466.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "لافتة للبيع": {
+    "regular": {
+      "id": "bt-a15407f810e8e55f-r",
+      "widthEm": 4.072,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 407.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-a15407f810e8e55f-b",
+      "widthEm": 4.086,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 408.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للإيجار · صورة المنشور": {
+    "regular": {
+      "id": "bt-c854c96de82dfae0-r",
+      "widthEm": 8.715,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 871.500000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-c854c96de82dfae0-b",
+      "widthEm": 8.877,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 887.700000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للإيجار · قابل للتعديل": {
+    "regular": {
+      "id": "bt-9b4fd7b581a87436-r",
+      "widthEm": 8.053,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 805.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-9b4fd7b581a87436-b",
+      "widthEm": 8.202,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 820.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للإيجار · معاينة": {
+    "regular": {
+      "id": "bt-1391104c78441a77-r",
+      "widthEm": 5.614,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 561.400000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-1391104c78441a77-b",
+      "widthEm": 5.726,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 572.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للإيجار · ملف الطباعة": {
+    "regular": {
+      "id": "bt-93ea853628ada0c4-r",
+      "widthEm": 8.183,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 818.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-93ea853628ada0c4-b",
+      "widthEm": 8.25,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 825.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للبيع · صورة المنشور": {
+    "regular": {
+      "id": "bt-6ae6e0ad292662a7-r",
+      "widthEm": 8.163,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 816.300000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-6ae6e0ad292662a7-b",
+      "widthEm": 8.293,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 829.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للبيع · قابل للتعديل": {
+    "regular": {
+      "id": "bt-6fa4befb89bd4aab-r",
+      "widthEm": 7.501,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 750.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-6fa4befb89bd4aab-b",
+      "widthEm": 7.61799,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 761.799000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للبيع · معاينة": {
+    "regular": {
+      "id": "bt-a62e87563799afb4-r",
+      "widthEm": 5.062,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 506.200000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-a62e87563799afb4-b",
+      "widthEm": 5.142,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 514.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "للبيع · ملف الطباعة": {
+    "regular": {
+      "id": "bt-090bc5a220f50235-r",
+      "widthEm": 7.631,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 763.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-090bc5a220f50235-b",
+      "widthEm": 7.666,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 766.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "مجموعات التطبيقات": {
+    "regular": {
+      "id": "bt-dd3755c4a4ece18b-r",
+      "widthEm": 8.05,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 805.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-dd3755c4a4ece18b-b",
+      "widthEm": 8.055,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 805.500000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "مصادر الدليل الكامل وتطبيقاته": {
+    "regular": {
+      "id": "bt-63481d1bb7e5f576-r",
+      "widthEm": 11.836,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1183.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-63481d1bb7e5f576-b",
+      "widthEm": 11.953,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 1195.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "مصادر الكتاب التنفيذي": {
+    "regular": {
+      "id": "bt-8c2eeb17db4faa7f-r",
+      "widthEm": 8.804,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 880.400000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-8c2eeb17db4faa7f-b",
+      "widthEm": 8.908,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 890.800000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "معاينة الصورة": {
+    "regular": {
+      "id": "bt-e8a4d268514152dc-r",
+      "widthEm": 5.418,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 541.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-e8a4d268514152dc-b",
+      "widthEm": 5.5,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 550.000000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "معاينة الملف": {
+    "regular": {
+      "id": "bt-84f476f81be081a0-r",
+      "widthEm": 5.199,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 519.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-84f476f81be081a0-b",
+      "widthEm": 5.223,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 522.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "ملف الطباعة": {
+    "regular": {
+      "id": "bt-8cb2f6b3fff4611b-r",
+      "widthEm": 5.0,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 500.000000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-8cb2f6b3fff4611b-b",
+      "widthEm": 4.973,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 497.300000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "ملفات التسليم": {
+    "regular": {
+      "id": "bt-7f48a6b401d75284-r",
+      "widthEm": 5.801,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 580.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-7f48a6b401d75284-b",
+      "widthEm": 5.845,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 584.500000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "ملفات المصدر": {
+    "regular": {
+      "id": "bt-ef19e5569835542c-r",
+      "widthEm": 5.687,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 568.700000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ef19e5569835542c-b",
+      "widthEm": 5.706,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 570.600000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "ملفات هوية الدايل": {
+    "regular": {
+      "id": "bt-118df318303cc7e3-r",
+      "widthEm": 7.189,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 718.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-118df318303cc7e3-b",
+      "widthEm": 7.281,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 728.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "منشورات إنستغرام": {
+    "regular": {
+      "id": "bt-525f38e15a750220-r",
+      "widthEm": 7.251,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 725.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-525f38e15a750220-b",
+      "widthEm": 7.352,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 735.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "نسخة PDF": {
+    "regular": {
+      "id": "bt-112c413ab05541f6-r",
+      "widthEm": 4.071,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 407.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-112c413ab05541f6-b",
+      "widthEm": 4.071,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 407.100000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "نسخة العرض التنفيذي": {
+    "regular": {
+      "id": "bt-ffe45778beea37fb-r",
+      "widthEm": 8.631,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 863.100000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-ffe45778beea37fb-b",
+      "widthEm": 8.697,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 869.700000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "نموذج الخطوط": {
+    "regular": {
+      "id": "bt-54a3a03136fe9afe-r",
+      "widthEm": 5.829,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 582.900000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-54a3a03136fe9afe-b",
+      "widthEm": 5.837,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 583.700000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "نموذج عرض العقار": {
+    "regular": {
+      "id": "bt-532e7254c25d385c-r",
+      "widthEm": 7.258,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 725.800000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-532e7254c25d385c-b",
+      "widthEm": 7.289,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 728.900000000 147.000000000",
+      "direction": "rtl"
+    }
+  },
+  "ورقة بيع العقار": {
+    "regular": {
+      "id": "bt-de19781a69e66f07-r",
+      "widthEm": 5.606,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 560.600000000 147.000000000",
+      "direction": "rtl"
+    },
+    "bold": {
+      "id": "bt-de19781a69e66f07-b",
+      "widthEm": 5.722,
+      "heightEm": 1.47,
+      "baselineEm": 1.0,
+      "viewBox": "0 0 572.200000000 147.000000000",
+      "direction": "rtl"
+    }
+  }
+}

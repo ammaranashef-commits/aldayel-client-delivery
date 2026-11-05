@@ -1,0 +1,465 @@
+{
+  "packages": {
+    "full": {
+      "label": "حزمة التطبيقات الكاملة",
+      "href": "downloads/packages/AlDayel_Application_Kit.zip",
+      "bytes": 34627451
+    },
+    "compact": {
+      "label": "الحزمة المختصرة المحدّثة",
+      "href": "downloads/packages/AlDayel_Compact_Kit.zip",
+      "bytes": 1757745
+    }
+  },
+  "guides": [
+    {
+      "id": "original",
+      "title": "الدليل الأساسي الأصلي",
+      "eyebrow": "المرجع الأصلي",
+      "description": "المرجع الأصلي",
+      "preview": "assets/previews/guide-original.webp",
+      "href": "downloads/guides/AlDayel_Original_Visual_Identity.pdf",
+      "bytes": 66884872,
+      "pages": 20
+    },
+    {
+      "id": "premium",
+      "title": "دليل الهوية الكامل",
+      "eyebrow": "PREMIUM FINAL",
+      "description": "قواعد الهوية وتطبيقاتها",
+      "preview": "assets/previews/guide-premium.webp",
+      "pages": 62,
+      "href": "downloads/guides/AlDayel_Brand_Guidelines_PREMIUM_FINAL.pdf",
+      "bytes": 28757952
+    },
+    {
+      "id": "executive",
+      "title": "الكتاب التنفيذي",
+      "eyebrow": "EXECUTIVE EDITION",
+      "description": "نسخة العرض التنفيذي",
+      "preview": "assets/previews/guide-executive.webp",
+      "pages": 20,
+      "href": "downloads/guides/AlDayel_Brand_Book_EXECUTIVE_20P.pdf",
+      "bytes": 30548850
+    }
+  ],
+  "applications": [
+    {
+      "id": "logo",
+      "title": "الشعار الرسمي",
+      "description": "SVG · PDF · PNG · AI",
+      "category": "identity",
+      "preview": "assets/previews/full-logo.webp",
+      "bundle": {
+        "href": "downloads/packages/AlDayel_Logo_Files.zip",
+        "bytes": 29480366
+      },
+      "files": [
+        {
+          "label": "الشعار الأساسي · متجهي",
+          "format": "SVG",
+          "href": "downloads/full/logo/AlDayel_primary-ar_ink.svg",
+          "bytes": 25477
+        },
+        {
+          "label": "الشعار الأساسي · PDF",
+          "format": "PDF",
+          "href": "downloads/full/logo/AlDayel_primary-ar_ink.pdf",
+          "bytes": 11788
+        },
+        {
+          "label": "الشعار الأساسي · 8000 بكسل",
+          "format": "PNG",
+          "href": "downloads/full/logo/AlDayel_primary-ar_ink_8000px.png",
+          "bytes": 363014
+        }
+      ]
+    },
+    {
+      "id": "letterhead",
+      "title": "المراسلات الرسمية",
+      "description": "Word · PDF · A4",
+      "category": "print",
+      "preview": "assets/previews/full-letterhead.webp",
+      "bundle": {
+        "href": "downloads/packages/AlDayel_Letterhead_Files.zip",
+        "bytes": 591330
+      },
+      "files": [
+        {
+          "label": "القالب القابل للتعبئة · Word",
+          "format": "DOCX",
+          "href": "downloads/full/letterhead/AlDayel_Letterhead_Editable.docx",
+          "bytes": 126315
+        },
+        {
+          "label": "القالب القابل للتعبئة · PDF",
+          "format": "PDF",
+          "href": "downloads/full/letterhead/AlDayel_Letterhead_Editable.pdf",
+          "bytes": 158424
+        },
+        {
+          "label": "القالب القابل للتعبئة · معاينة",
+          "format": "PNG",
+          "href": "downloads/full/letterhead/AlDayel_Letterhead_Editable.png",
+          "bytes": 90219
+        },
+        {
+          "label": "القالب الفارغ · Word",
+          "format": "DOCX",
+          "href": "downloads/full/letterhead/AlDayel_Letterhead_Blank.docx",
+          "bytes": 126077
+        },
+        {
+          "label": "القالب الفارغ · PDF",
+          "format": "PDF",
+          "href": "downloads/full/letterhead/AlDayel_Letterhead_Blank.pdf",
+          "bytes": 87913
+        },
+        {
+          "label": "القالب الفارغ · معاينة",
+          "format": "PNG",
+          "href": "downloads/full/letterhead/AlDayel_Letterhead_Blank.png",
+          "bytes": 63173
+        }
+      ]
+    },
+    {
+      "id": "fonts",
+      "title": "الخطوط الرسمية",
+      "description": "PT Sans + دليل الخطوط",
+      "category": "identity",
+      "preview": "assets/previews/full-fonts.webp",
+      "bundle": {
+        "href": "downloads/packages/AlDayel_Fonts_Files.zip",
+        "bytes": 931482
+      },
+      "files": [
+        {
+          "label": "نموذج الخطوط",
+          "format": "PDF",
+          "href": "downloads/full/fonts/AlDayel_Official_Font_Specimen.pdf",
+          "bytes": 80493
+        }
+      ]
+    },
+    {
+      "id": "property",
+      "title": "نموذج عرض العقار",
+      "description": "Word · PDF · A4",
+      "category": "print",
+      "preview": "assets/previews/full-property.webp",
+      "bundle": {
+        "href": "downloads/packages/AlDayel_Property_Files.zip",
+        "bytes": 874234
+      },
+      "files": [
+        {
+          "label": "القالب القابل للتعبئة · Word",
+          "format": "DOCX",
+          "href": "downloads/full/property/AlDayel_Property_Sheet_Editable.docx",
+          "bytes": 129704
+        },
+        {
+          "label": "القالب القابل للتعبئة · PDF",
+          "format": "PDF",
+          "href": "downloads/full/property/AlDayel_Property_Sheet_Editable.pdf",
+          "bytes": 285798
+        },
+        {
+          "label": "القالب القابل للتعبئة · معاينة",
+          "format": "PNG",
+          "href": "downloads/full/property/AlDayel_Property_Sheet_Editable.png",
+          "bytes": 136038
+        },
+        {
+          "label": "القالب الفارغ · Word",
+          "format": "DOCX",
+          "href": "downloads/full/property/AlDayel_Property_Sheet_Blank.docx",
+          "bytes": 129614
+        },
+        {
+          "label": "القالب الفارغ · PDF",
+          "format": "PDF",
+          "href": "downloads/full/property/AlDayel_Property_Sheet_Blank.pdf",
+          "bytes": 207970
+        },
+        {
+          "label": "القالب الفارغ · معاينة",
+          "format": "PNG",
+          "href": "downloads/full/property/AlDayel_Property_Sheet_Blank.png",
+          "bytes": 102742
+        }
+      ]
+    },
+    {
+      "id": "signage",
+      "title": "اللافتات العقارية",
+      "description": "SVG · CMYK PDF · 100 × 70 cm",
+      "category": "print",
+      "preview": "assets/previews/full-signage.webp",
+      "bundle": {
+        "href": "downloads/packages/AlDayel_Signage_Files.zip",
+        "bytes": 596363
+      },
+      "files": [
+        {
+          "label": "للبيع · قابل للتعديل",
+          "format": "SVG",
+          "href": "downloads/full/signage/AlDayel_For_Sale_EDITABLE.svg",
+          "bytes": 28319
+        },
+        {
+          "label": "للبيع · ملف الطباعة",
+          "format": "PDF",
+          "href": "downloads/full/signage/AlDayel_For_Sale_PRINT_TEMPLATE_CMYK.pdf",
+          "bytes": 280091
+        },
+        {
+          "label": "للبيع · معاينة",
+          "format": "PNG",
+          "href": "downloads/full/signage/AlDayel_For_Sale_PREVIEW_RGB.png",
+          "bytes": 138269
+        },
+        {
+          "label": "للإيجار · قابل للتعديل",
+          "format": "SVG",
+          "href": "downloads/full/signage/AlDayel_For_Rent_EDITABLE.svg",
+          "bytes": 28327
+        },
+        {
+          "label": "للإيجار · ملف الطباعة",
+          "format": "PDF",
+          "href": "downloads/full/signage/AlDayel_For_Rent_PRINT_TEMPLATE_CMYK.pdf",
+          "bytes": 278283
+        },
+        {
+          "label": "للإيجار · معاينة",
+          "format": "PNG",
+          "href": "downloads/full/signage/AlDayel_For_Rent_PREVIEW_RGB.png",
+          "bytes": 131669
+        }
+      ]
+    },
+    {
+      "id": "posts",
+      "title": "منشورات إنستغرام",
+      "description": "SVG · PNG · 1080 × 1350 px",
+      "category": "social",
+      "preview": "assets/previews/full-posts.webp",
+      "bundle": {
+        "href": "downloads/packages/AlDayel_Posts_Files.zip",
+        "bytes": 135717
+      },
+      "files": [
+        {
+          "label": "للبيع · قابل للتعديل",
+          "format": "SVG",
+          "href": "downloads/full/posts/AlDayel_Instagram_For_Sale.svg",
+          "bytes": 31190
+        },
+        {
+          "label": "للبيع · صورة المنشور",
+          "format": "PNG",
+          "href": "downloads/full/posts/AlDayel_Instagram_For_Sale.png",
+          "bytes": 64291
+        },
+        {
+          "label": "للإيجار · قابل للتعديل",
+          "format": "SVG",
+          "href": "downloads/full/posts/AlDayel_Instagram_For_Rent.svg",
+          "bytes": 31640
+        },
+        {
+          "label": "للإيجار · صورة المنشور",
+          "format": "PNG",
+          "href": "downloads/full/posts/AlDayel_Instagram_For_Rent.png",
+          "bytes": 67630
+        }
+      ]
+    },
+    {
+      "id": "carousel",
+      "title": "كاروسيل العقار",
+      "description": "خمس شرائح + المصدر",
+      "category": "social",
+      "preview": "assets/previews/full-carousel.webp",
+      "bundle": {
+        "href": "downloads/packages/AlDayel_Carousel_Files.zip",
+        "bytes": 465775
+      },
+      "files": [
+        {
+          "label": "الشريحة 01",
+          "format": "PNG",
+          "href": "downloads/full/carousel/AlDayel_Carousel_01.png",
+          "bytes": 46604
+        },
+        {
+          "label": "الشريحة 02",
+          "format": "PNG",
+          "href": "downloads/full/carousel/AlDayel_Carousel_02.png",
+          "bytes": 61696
+        },
+        {
+          "label": "الشريحة 03",
+          "format": "PNG",
+          "href": "downloads/full/carousel/AlDayel_Carousel_03.png",
+          "bytes": 87191
+        },
+        {
+          "label": "الشريحة 04",
+          "format": "PNG",
+          "href": "downloads/full/carousel/AlDayel_Carousel_04.png",
+          "bytes": 70886
+        },
+        {
+          "label": "الشريحة 05",
+          "format": "PNG",
+          "href": "downloads/full/carousel/AlDayel_Carousel_05.png",
+          "bytes": 56611
+        },
+        {
+          "label": "المصدر الموحّد للشرائح",
+          "format": "SVG",
+          "href": "downloads/full/carousel/AlDayel_Carousel_System.svg",
+          "bytes": 162438
+        }
+      ]
+    }
+  ],
+  "compact": [
+    {
+      "id": "logo",
+      "title": "الشعار الأساسي",
+      "description": "SVG · PDF · PNG 8000 px",
+      "preview": "assets/previews/compact-logo.webp",
+      "files": [
+        {
+          "label": "الشعار · SVG",
+          "format": "SVG",
+          "href": "downloads/compact/logo/AlDayel_Logo_Primary.svg",
+          "bytes": 25477
+        },
+        {
+          "label": "الشعار · PDF",
+          "format": "PDF",
+          "href": "downloads/compact/logo/AlDayel_Logo_Primary.pdf",
+          "bytes": 11788
+        },
+        {
+          "label": "شفاف · 2000 بكسل",
+          "format": "PNG",
+          "href": "downloads/compact/logo/AlDayel_Logo_Primary_2000px.png",
+          "bytes": 67648
+        },
+        {
+          "label": "شفاف · 4000 بكسل",
+          "format": "PNG",
+          "href": "downloads/compact/logo/AlDayel_Logo_Primary_4000px.png",
+          "bytes": 149957
+        },
+        {
+          "label": "شفاف · 8000 بكسل",
+          "format": "PNG",
+          "href": "downloads/compact/logo/AlDayel_Logo_Primary_8000px.png",
+          "bytes": 363014
+        }
+      ]
+    },
+    {
+      "id": "property",
+      "title": "ورقة بيع العقار",
+      "description": "صورة واحدة في الأسفل",
+      "preview": "assets/previews/compact-property.webp",
+      "files": [
+        {
+          "label": "قالب Word قابل للتعديل",
+          "format": "DOCX",
+          "href": "downloads/compact/property/AlDayel_Property_Sale.docx",
+          "bytes": 127333
+        },
+        {
+          "label": "نسخة PDF",
+          "format": "PDF",
+          "href": "downloads/compact/property/AlDayel_Property_Sale.pdf",
+          "bytes": 220943
+        },
+        {
+          "label": "معاينة الصورة",
+          "format": "PNG",
+          "href": "downloads/compact/property/AlDayel_Property_Sale.png",
+          "bytes": 115235
+        }
+      ]
+    },
+    {
+      "id": "sale",
+      "title": "لافتة للبيع",
+      "description": "SVG · CMYK PDF · PNG",
+      "preview": "assets/previews/compact-sale.webp",
+      "files": [
+        {
+          "label": "قابل للتعديل",
+          "format": "SVG",
+          "href": "downloads/compact/sale/AlDayel_For_Sale_EDITABLE.svg",
+          "bytes": 27887
+        },
+        {
+          "label": "ملف الطباعة",
+          "format": "PDF",
+          "href": "downloads/compact/sale/AlDayel_For_Sale_PRINT_TEMPLATE_CMYK.pdf",
+          "bytes": 265896
+        },
+        {
+          "label": "المعاينة",
+          "format": "PNG",
+          "href": "downloads/compact/sale/AlDayel_For_Sale_PREVIEW_RGB.png",
+          "bytes": 129774
+        }
+      ]
+    },
+    {
+      "id": "rent",
+      "title": "لافتة للإيجار",
+      "description": "SVG · CMYK PDF · PNG",
+      "preview": "assets/previews/compact-rent.webp",
+      "files": [
+        {
+          "label": "قابل للتعديل",
+          "format": "SVG",
+          "href": "downloads/compact/rent/AlDayel_For_Rent_EDITABLE.svg",
+          "bytes": 27895
+        },
+        {
+          "label": "ملف الطباعة",
+          "format": "PDF",
+          "href": "downloads/compact/rent/AlDayel_For_Rent_PRINT_TEMPLATE_CMYK.pdf",
+          "bytes": 264097
+        },
+        {
+          "label": "المعاينة",
+          "format": "PNG",
+          "href": "downloads/compact/rent/AlDayel_For_Rent_PREVIEW_RGB.png",
+          "bytes": 123321
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "title": "مصادر الكتاب التنفيذي",
+      "description": "المصادر والأصول",
+      "format": "ZIP",
+      "href": "downloads/resources/AlDayel_Executive_Editable_Sources.zip",
+      "bytes": 91057431
+    },
+    {
+      "title": "مصادر الدليل الكامل وتطبيقاته",
+      "description": "الأصول والتطبيقات وحركة الشعار",
+      "format": "ZIP",
+      "href": "downloads/resources/AlDayel_Full_Guide_Sources.zip",
+      "bytes": 94701465
+    }
+  ]
+}

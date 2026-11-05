@@ -1,0 +1,1 @@
+PT Sans Regular and Bold are the approved Latin identity fonts. License: PTSans-LICENSE.txt. Arabic static labels are original Helvetica Neue LT Arabic outlined artwork in assets/type; no commercial font program is distributed. Search input uses the licensed Arabic font if locally installed, with a system fallback otherwise.
